@@ -11,6 +11,7 @@ public class Testcase2 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		tygft6r54gyf6r
 		
 		System.setProperty("Webdriver.chrome.driver", "C:\\Users\\INFIWAVE SOLUTUONS\\Desktop\\chrome.exe");
         WebDriver driver = new ChromeDriver();
